@@ -15,3 +15,8 @@ I'm a Software Engineering graduate learning QA testing and test automation. Thi
 - Writing test cases and bug reports for more flows (cart, checkout)
 - Page Object Model
 - More Playwright features (fixtures, reports)
+
+Sehra-e-khaas 
+## Live site testing: Sehra e Khaas (with client's permission)
+- `tests/sehra-e-khaas/currency.spec.js`: checks that selecting a currency changes the displayed prices.
+- This test currently fails because the bug it checks for (BUG-04) is still present on the site.
